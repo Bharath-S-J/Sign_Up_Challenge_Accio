@@ -1,0 +1,52 @@
+body {
+  display: flex;
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  background: white;
+
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+}
+body > div {
+  background-color: #eceff1;
+  padding: 35px;
+  width: 50%;
+  border-radius: 20px;
+}
+
+label,
+input,
+span {
+  display: block;
+  padding: 6px;
+  width: 90%;
+}
+
+input {
+  border-radius: 5px;
+  border: 1px solid;
+}
+input:focus {
+  border-color: #29b6f6;
+  outline: none;
+}
+input[type="submit"] {
+  width: 150px;
+  height: 40px;
+  margin-top: 30px;
+  background-color: #29b6f6;
+  color: white;
+}
+label {
+  padding-left: 0px;
+  margin-top: 15px;
+}
+span {
+  color: red;
+  font-size: 0.9em;
+}
+#confirmation_message {
+  color: rgb(62, 252, 62);
+}
