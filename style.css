@@ -13,6 +13,7 @@ body > div {
   background-color: #eceff1;
   padding: 35px;
   width: 50%;
+  max-width: 600px;
   border-radius: 20px;
 }
 
