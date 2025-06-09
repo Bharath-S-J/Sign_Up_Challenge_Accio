@@ -15,7 +15,7 @@ A simple HTML, CSS, and JavaScript form with email and password fields. Includes
 
 ## Live Demo
 
-[https://bharath-s-j.github.io/SignUp_Accio/](https://bharath-s-j.github.io/SignUp_Accio/)
+[https://bharath-s-j.github.io/Sign_Up_Challenge_Accio/](https://bharath-s-j.github.io/Sign_Up_Challenge_Accio/)
 
 ---
 
